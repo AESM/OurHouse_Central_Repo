@@ -12,7 +12,7 @@ OURHOUSE CENTRAL REPO
 - **_Venmo Test-Repo_**
   - https://github.com/KidA001/OurHouse-VenmoSandbox
 - **_User Stories_**
-  - https://github.com/AESM/OurHouse\_Central\_Repo/blob/master/Stories\_MVP\_Pseudocode.md
+  - https://github.com/AESM/OurHouse_Central_Repo/blob/master/Stories_MVP_Pseudocode.md
 - **_Trello Board_**
   - https://trello.com/b/bqk6B9FF/our-house
 
